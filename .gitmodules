@@ -1,3 +1,15 @@
 [submodule "BGR-Simulator"]
 	path = BGR-Simulator
 	url = https://github.com/BGU-Racing/BGR-Simulator.git
+[submodule "BGR-PM"]
+	path = BGR-PM
+	url = https://github.com/BGU-Racing/BGR-PM.git
+[submodule "BGR-Control"]
+	path = BGR-Control
+	url = https://github.com/BGU-Racing/BGR-Control.git
+[submodule "BGR-AS"]
+	path = BGR-AS
+	url = https://github.com/BGU-Racing/BGR-AS.git
+[submodule "BGR-Planning"]
+	path = BGR-Planning
+	url = https://github.com/BGU-Racing/BGR-Planning.git
