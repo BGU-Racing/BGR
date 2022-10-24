@@ -1,0 +1,3 @@
+[submodule "BGR-Simulator"]
+	path = BGR-Simulator
+	url = https://github.com/BGU-Racing/BGR-Simulator.git
