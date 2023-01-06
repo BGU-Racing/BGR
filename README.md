@@ -43,7 +43,7 @@ and follow the installations there.
 this is the code that will run in practice in our in our race car`s mini pc. 
 ### 1. Clone the Project
 ``` sh 
-git clone https://github.com/BGU-Racing/BGR 
+git clone --recurse-submodules https://github.com/BGU-Racing/BGR
 cd BGR 
 ```  
  
