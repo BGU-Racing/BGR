@@ -6,23 +6,20 @@
 
 ## Installations:
 
-#### <b>Only Perception-Mapping project:</b>
+#### <b>1. Only Perception-Mapping project:</b>
 ```
 git clone https://github.com/BGU-Racing/BGR-PM 
 ```
 and follow the installations there.
 <br>
 
-   * <b>For Lidar Only:</b> ```git clone https://github.com/BGU-Racing/BGR-PM/Lidar ``` and follow the installations there.
-   * <b>For Camera Only:</b> ```git clone https://github.com/BGU-Racing/BGR-PM/Camera ``` and follow the installations there.
-
-#### <b>Only Planning project:</b>
+#### <b>2. Only Planning project:</b>
 ```
 git clone https://github.com/BGU-Racing/BGR-Planning 
 ```
 and follow the installations there.
 
-#### <b>Only Simulator project:</b> 
+#### <b>3. Only Simulator project:</b> 
 ```
 git clone https://github.com/BGU-Racing/BGR-Simulator
 ```
