@@ -1,4 +1,4 @@
-<h1 align="center">Welcome To The First Autonomous Racing Car Software at BGU.</h1>
+<h1 align="center">Welcome to BGU's first autonomous car software.</h1>
 <p align="center">
     <img src="https://i.ibb.co/bHVTB3w/20230106-134330.png" alt="BGU Race Car 2022-2023">
 </p>
