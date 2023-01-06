@@ -12,8 +12,9 @@ git clone https://github.com/BGU-Racing/BGR-PM
 ```
 and follow the installations there.
 <br>
-* <b>For Lidar Only:</b> ```git clone https://github.com/BGU-Racing/BGR-PM/Lidar ``` and follow the installations there.
-* <b>For Camera Only:</b> ```git clone https://github.com/BGU-Racing/BGR-PM/Camera ``` and follow the installations there.
+
+   * <b>For Lidar Only:</b> ```git clone https://github.com/BGU-Racing/BGR-PM/Lidar ``` and follow the installations there.
+   * <b>For Camera Only:</b> ```git clone https://github.com/BGU-Racing/BGR-PM/Camera ``` and follow the installations there.
 
 #### <b>Only Planning project:</b>
 ```
